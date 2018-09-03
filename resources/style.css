@@ -79,7 +79,8 @@ a {
     margin: auto;
     display: flex;
     flex-direction: column;
-    padding-top: 69px;
+    padding: 69px;
+    
 }
 
 #tea img {
